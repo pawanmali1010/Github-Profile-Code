@@ -1,4 +1,4 @@
-![logo](https://as2.ftcdn.net/v2/jpg/01/93/57/57/1000_F_193575723_G4tgK3HKUI5zceKL29xOd8pFuP21KV3R.jpg)
+![logo](https://github.com/pawanmali1010/pawanmali1010/blob/main/Colorful%20Shapes%20Header%20Banner2.jpg)
 
 <h1 align="center">Hi 👋, I'm Pawan Mali</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
